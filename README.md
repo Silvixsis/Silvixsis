@@ -6,7 +6,6 @@ Ingeniería Civil Matemática. Sur de Chile.
 
 - Estudiante de Ingeniería Civil Matemática
 - Lenguajes: Python, C++, MATLAB
-- Uso básico de Linux
 
 ## Intereses
 
@@ -17,13 +16,8 @@ Ingeniería Civil Matemática. Sur de Chile.
 
 r.silva11@ufromail.cl
 
-## Redes
-
-- Instagram: slvxs_s
-
 ## Herramientas
 
 - Python
-- C++
-- MATLAB
-- Linux
+- C
+
