@@ -1,23 +1,17 @@
 # Rodrigo Silva
 
-Ingeniería Civil Matemática. Sur de Chile.
-
-## Sobre mí
-
 - Estudiante de Ingeniería Civil Matemática
-- Lenguajes: Python, C++, MATLAB
+- Lenguajes: Python, C
 
 ## Intereses
 
 - Matemáticas aplicadas
 - Estadística
+- Bioinformática
+- Machine Learning
 
 ## Contacto
 
 r.silva11@ufromail.cl
 
-## Herramientas
-
-- Python
-- C
 
