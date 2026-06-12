@@ -1,7 +1,6 @@
 # Rodrigo Silva
 
 - Estudiante de Ingeniería Civil Matemática
-- Lenguajes: Python, C
 
 ## Intereses
 
@@ -9,9 +8,5 @@
 - Estadística
 - Bioinformática
 - Machine Learning
-
-## Contacto
-
-r.silva11@ufromail.cl
 
 
